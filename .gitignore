@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/
+dist/
+coverage/
+__test__/components/__snapshots__/
+
+# dotenv environment variables file
+.env
+.DS_Store
+# package-lock.json
+yarn.lock
+.cache
+yarn-error.log
+*.log
